@@ -1,0 +1,39 @@
+/*css de elementos*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #cbb9a8;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+}
+h2{
+    font-size: 20px;
+}
+/*css de id y clases*/
+.Firma{
+    margin: 70px 530px 70px 40px;
+    border-top: 4px solid #074567;
+    border-bottom: 4px solid #074567;
+}
+.Firma-Tabla{
+    border-spacing: 0px;
+    margin: 15px;
+}
+
+.Firma-Tabla-Texto *{
+    margin: 12px 0px;
+    padding-left: 15px;
+}
+.Firma-Tabla-Texto-Resaltar{
+    color: #074567;
+}
+.Firma-Tabla-Texto-Logos *{
+    padding-left: 0px;
+    margin-top: 0px;
+    td{
+        padding-right: 15px;
+    }
+}

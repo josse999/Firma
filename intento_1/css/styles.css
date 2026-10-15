@@ -1,0 +1,40 @@
+/*css de elementos*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+section{
+background-color: #0b4f6c;
+    margin: 10px 0px 0px 10px;
+    border-right: 100px;
+    width: 356px;
+    border-radius: 30px;
+}
+body{
+    color: #222;
+    font: 400 14px "Montserrat", sans-serif;
+}
+table{
+    border-spacing: 13px;
+}
+img{
+    border-radius: 30px;
+}
+/*css de id y clases*/
+.inicio-texto-hastag{
+    padding-top: 12px;
+    padding-bottom: 0px;
+}
+.inicio-texto{
+    padding: 10px 12px 12px 12px ;
+    background-color: #cbb9a8;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 10px;
+    height: 128px;
+}
+.experiencia{
+    background-color: #cbb9a8;
+    border-radius: 30px;
+    text-align: center;
+}
